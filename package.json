@@ -1,0 +1,20 @@
+{
+  "name": "@craigmiller160/eslint-config-vue3-ts",
+  "version": "1.0.0-beta",
+  "main": ".eslintrc.js",
+  "author": "craigmiller160",
+  "publishConfig": {
+    "registry": "https://craigmiller160.ddns.net:30003/repository/npm-private/"
+  },
+  "scripts": {
+    "build": "echo 'No build required'"
+  },
+  "files": [
+    ".eslintrc.js"
+  ],
+  "peerDependencies": {
+    "vue": "3.2.26",
+    "eslint": "^8.5.0",
+    "typescript": "^4.5.4"
+  }
+}
